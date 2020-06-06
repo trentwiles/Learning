@@ -11,6 +11,9 @@ int main()
 	if (x > y){
 		cout << "What you just put in is true!";
 	}
+	elseif (x = y){
+		cout << "These numbers are the same.";	
+	}
 	else {
 		cout << "Sorry! That does not appear to be true. :(";
 	}
